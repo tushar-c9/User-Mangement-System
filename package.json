@@ -1,7 +1,7 @@
 {
-  "name": "crud_app",
+  "name": "user-management-system",
   "version": "1.0.0",
-  "description": "crud application with express and mongodb",
+  "description": "A web application for user management using nodejs and mongodb",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "crud",
     "mongodb"
   ],
-  "author": "akshay kashyap",
+  "author": "Tushar Choudhary",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
